@@ -1,87 +1,87 @@
 const skills = [
   {
     id: 1,
-    image: "src/assets/tech/html.png",
+    image: "../src/assets/tech/html.png",
   },
   {
     id: 2,
-    image: "src/assets/tech/css.png",
+    image: "../src/assets/tech/css.png",
   },
   {
     id: 3,
-    image: "src/assets/tech/javascript.png",
+    image: "../src/assets/tech/javascript.png",
   },
   {
     id: 4,
-    image: "src/assets/tech/bootstrap.png",
+    image: "../src/assets/tech/bootstrap.png",
   },
   {
     id: 5,
-    image: "src/assets/tech/reactjs.png",
+    image: "../src/assets/tech/reactjs.png",
   },
   {
     id: 6,
-    image: "src/assets/tech/redux.png",
+    image: "../src/assets/tech/redux.png",
   },
   {
     id: 7,
-    image: "src/assets/tech/mongodb.png",
+    image: "../src/assets/tech/mongodb.png",
   },
   {
     id: 8,
-    image: "src/assets/tech/mysql.png",
+    image: "../src/assets/tech/mysql.png",
   },
   {
     id: 9,
-    image: "src/assets/tech/npm.png",
+    image: "../src/assets/tech/npm.png",
   },
   {
     id: 10,
-    image: "src/assets/tech/nodejs.png",
+    image: "../src/assets/tech/nodejs.png",
   },
   {
     id: 11,
-    image: "src/assets/tech/postman.png",
+    image: "../src/assets/tech/postman.png",
   },
   {
     id: 12,
-    image: "src/assets/tech/git.png",
+    image: "../src/assets/tech/git.png",
   },
   {
     id: 13,
-    image: "src/assets/tech/netlify.png",
+    image: "../src/assets/tech/netlify.png",
   },
   {
     id: 14,
-    image: "src/assets/tech/render.png",
+    image: "../src/assets/tech/render.png",
   },
   {
     id: 15,
-    image: "src/assets/tech/Express.png",
+    image: "../src/assets/tech/Express.png",
   },
   {
     id: 16,
-    image: "src/assets/tech/Node-mailer2.png",
+    image: "../src/assets/tech/Node-mailer2.png",
   },
   {
     id: 17,
-    image: "src/assets/tech/Jwt.png",
+    image: "../src/assets/tech/Jwt.png",
   },
   {
     id: 18,
-    image: "src/assets/tech/Aws.png",
+    image: "../src/assets/tech/Aws.png",
   },
   {
     id: 19,
-    image: "src/assets/tech/Ms-office.png",
+    image: "../src/assets/tech/Ms-office.png",
   },
   {
     id: 20,
-    image: "src/assets/tech/c.png",
+    image: "../src/assets/tech/c.png",
   },
   {
     id: 21,
-    image: "src/assets/tech/c++.png",
+    image: "../src/assets/tech/c++.png",
   },
 ];
 

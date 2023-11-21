@@ -5,27 +5,27 @@ import "swiper/css/pagination";
 const certi = [
   {
     id: 1,
-    image: "src/assets/Guvi-cert.png",
+    image: "../src/assets/Guvi-cert.png",
   },
   {
     id: 2,
-    image: "src/assets/Website-cert.png",
+    image: "../src/assets/Website-cert.png",
   },
   {
     id: 3,
-    image: "src/assets/Edtech-cert.png",
+    image: "../src/assets/Edtech-cert.png",
   },
   {
     id: 4,
-    image: "src/assets/KRISHNA-IC-cert.png",
+    image: "../src/assets/KRISHNA-IC-cert.png",
   },
   {
     id: 5,
-    image: "src/assets/Oracle-cert.png",
+    image: "../src/assets/Oracle-cert.png",
   },
   {
     id: 6,
-    image: "src/assets/IC-cert.png",
+    image: "../src/assets/IC-cert.png",
   },
 ];
 

@@ -5,7 +5,7 @@
         "description" : "Click to view", 
         "demo": "https://travel-landing-page-task1.netlify.app/", 
         "github": "https://github.com/c2hsasi/TASK-FSD/",
-        "image": "/src/assets/project-1.png"
+        "image": "../src/assets/project-1.png"
     },
     {
         "id" : 2, 
@@ -13,7 +13,7 @@
         "description" : "Click to view", 
         "demo": "https://restaurant-task-2.netlify.app/",
         "github": "https://github.com/c2hsasi/Restaurant/",
-        "image": "/src/assets/project-2.png"
+        "image": "../src/assets/project-2.png"
     },
     {
         "id" : 3, 
@@ -21,7 +21,7 @@
         "description" : "Click to view", 
         "demo": "https://dice-game-task3.netlify.app/",
         "github": "https://github.com/c2hsasi/Dice-Game/",
-        "image": "/src/assets/project-3.png"
+        "image": "../src/assets/project-3.png"
     }
     , {
         "id" : 4, 
@@ -29,7 +29,7 @@
         "description" : "Click to view", 
         "demo": "https://api-fetch-task4.netlify.app/" ,
         "github": "https://github.com/c2hsasi/API-FETCH/",
-        "image": "/src/assets/project-4.png"
+        "image": "../src/assets/project-4.png"
     },
     {
         "id" : 5, 
@@ -37,7 +37,7 @@
         "description" : "Click to view", 
         "demo": "https://dashboard-ui-sales-react-task-5.netlify.app/",
         "github": "https://github.com/c2hsasi/Dashboard-UI-Sales/",
-        "image": "/src/assets/project-5.png"
+        "image": "../src/assets/project-5.png"
     },
     {
         "id" : 6, 
@@ -45,7 +45,7 @@
         "description" : "Click to view", 
         "demo": "https://context-state-management-react-task-6.netlify.app/notes/",
         "github": "https://github.com/c2hsasi/Context-State-Management/",
-        "image": "/src/assets/project-6.png"
+        "image": "../src/assets/project-6.png"
     },
      {
         "id" : 7, 
@@ -53,7 +53,7 @@
         "description" : "Click to view", 
         "demo": "https://redux-state-management-react-task-7.netlify.app/notes/",
         "github": "https://github.com/c2hsasi/Redux-State-Management/",
-        "image": "/src/assets/project-7.png"
+        "image": "../src/assets/project-7.png"
     },
     {
         "id" : 8, 
@@ -61,7 +61,7 @@
         "description" : "Click to view", 
         "demo": "https://hall-booking-vu4d.onrender.com/api/hall/bookedRoom/",
         "github": "https://github.com/c2hsasi/hall-booking/",
-        "image": "/src/assets/project-8.png"
+        "image": "../src/assets/project-8.png"
     },
     {
         "id" : 9, 
@@ -69,7 +69,7 @@
         "description" : "Click to view", 
         "demo": "https://assign-mentor-shtj.onrender.com/api/students/mentor/getStudents/101/" ,
         "github": "https://github.com/c2hsasi/assign-mentor/",
-        "image": "/src/assets/project-9.png"
+        "image": "../src/assets/project-9.png"
     }
 ]
 
